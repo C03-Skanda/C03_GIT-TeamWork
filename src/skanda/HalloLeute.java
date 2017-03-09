@@ -14,9 +14,14 @@ public class HalloLeute {
 		System.out.println("Hallo Michi!");
 	}
 	
+	public static void HalloDave(){
+		System.out.println("Hallo Dave!");
+	}
+	
 	public static void main(String[] args){
 		HalloMax();
 		HalloKevin();
 		HalloMichi();
+		HalloDave();
 	}
 }
