@@ -10,8 +10,13 @@ public class HalloLeute {
 		System.out.println("Hallo Kevin!");
 	}
 	
+	public static void HalloMichi(){
+		System.out.println("Hallo Michi!");
+	}
+	
 	public static void main(String[] args){
 		HalloMax();
 		HalloKevin();
+		HalloMichi();
 	}
 }
