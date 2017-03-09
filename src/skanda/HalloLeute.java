@@ -6,7 +6,12 @@ public class HalloLeute {
 		System.out.println("Hallo Max!");
 	}
 	
+	public static void HalloKevin(){
+		System.out.println("Hallo Kevin!");
+	}
+	
 	public static void main(String[] args){
 		HalloMax();
+		HalloKevin();
 	}
 }
